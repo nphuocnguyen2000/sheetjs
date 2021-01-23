@@ -2,4 +2,5 @@
 /* vim: set ts=2: */
 
 export { Workbook } from "./s/Workbook";
+
 export { get_XLSX, set_XLSX } from "./s/XLSXWrapper";
